@@ -1,0 +1,85 @@
+<html>
+<head>
+<title>Unsolved Mysteries – Detroit</title>
+<link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+<div class="forum">
+
+<h2>Thread: Unsolved Mysteries – Detroit</h2>
+
+<div class="post">
+<span class="username">NightSignal</span>
+<span class="time">Oct 14 2009 01:33 AM</span>
+
+<p>Does anyone remember the industrial accident outside Detroit where everyone supposedly died except one guy?</p>
+</div>
+
+<div class="post">
+<span class="username">ArchiveGhost</span>
+<span class="time">Oct 14 2009 02:11 AM</span>
+
+<p>Yeah. The survivor had a name floating around old reports.</p>
+
+<p>Kaige M. A.k.A "Jah".</p>
+
+<p>Middle aged guy from the Midwest. Some people said he was the top suspect in a strange manslaughter accident connected to the event.</p>
+
+</div>
+
+<div class="post">
+<span class="username">MotorCityWatcher</span>
+<span class="time">Oct 14 2009 02:45 AM</span>
+
+<p>But here's the weird part.</p>
+
+<p>He should have died. Everyone else did.</p>
+
+<p>He was the only one who walked out alive.</p>
+
+</div>
+
+<div class="post">
+<span class="username">StaticWitness</span>
+<span class="time">Oct 14 2009 03:01 AM</span>
+
+<p>Locals say after that night he disappeared.</p>
+
+<p>But strange things started happening in Detroit.</p>
+
+<p>People claim a figure shows up when violent crimes are about to happen…</p>
+
+<p>Almost like a vigilante.</p>
+
+</div>
+
+<div class="post">
+<span class="username">Signal404</span>
+<span class="time">Oct 14 2009 03:22 AM</span>
+
+<p>I've heard rumors he wasn't just lucky.</p>
+
+<p>There were strange electromagnetic readings during the accident.</p>
+
+<p>Some say whatever happened gave him abilities no one can explain.</p>
+
+</div>
+
+<div class="post">
+<span class="username">BinaryProphet</span>
+<span class="time">Oct 14 2009 03:44 AM</span>
+
+<p>Look closer at the files.</p>
+
+<p>The answer is hidden in plain sight.</p>
+
+<p class="hidden">ARG clue: search coordinates 42.3314 -83.0458</p>
+
+</div>
+
+</div>
+
+</body>
+</html>

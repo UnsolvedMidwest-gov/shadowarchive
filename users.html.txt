@@ -1,0 +1,36 @@
+<html>
+<head>
+<title>User Profiles</title>
+<link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+<div class="forum">
+
+<h2>Forum Users</h2>
+
+<p><b>NightSignal</b><br>
+Joined: 2007<br>
+Posts: 413<br>
+Interest: urban legends</p>
+
+<p><b>ArchiveGhost</b><br>
+Joined: 2006<br>
+Posts: 988<br>
+Interest: government archives</p>
+
+<p><b>MotorCityWatcher</b><br>
+Joined: 2008<br>
+Posts: 120<br>
+Location: Detroit</p>
+
+<p><b>Signal404</b><br>
+Joined: 2009<br>
+Posts: 33<br>
+Interest: paranormal signals</p>
+
+</div>
+
+</body>
+</html>

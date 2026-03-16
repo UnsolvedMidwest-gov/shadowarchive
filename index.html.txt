@@ -1,0 +1,43 @@
+<html>
+<head>
+<title>ShadowArchive Forum</title>
+<link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+<div class="header">
+<h1>ShadowArchive</h1>
+<p>Discussion forum for mysteries, conspiracies, and unexplained events.</p>
+</div>
+
+<div class="forum">
+
+<div class="thread">
+<a href="thread_unsolved_detroit.html">
+Unsolved Mysteries – Detroit Incident
+</a>
+<br>
+Last post: Oct 14 2009
+</div>
+
+<div class="thread">
+<a href="thread_area51.html">
+Area 51 Worker Testimonies
+</a>
+<br>
+Last post: Jul 22 2008
+</div>
+
+<div class="thread">
+<a href="thread_blackout.html">
+The 2003 Blackout – Something They Didn't Tell Us
+</a>
+<br>
+Last post: Jan 3 2010
+</div>
+
+</div>
+
+</body>
+</html>
